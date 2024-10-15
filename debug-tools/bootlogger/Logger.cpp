@@ -26,6 +26,7 @@
 #include <system_error>
 #include <unistd.h>
 
+#include <array>
 #include <atomic>
 #include <cstring>
 #include <filesystem>
